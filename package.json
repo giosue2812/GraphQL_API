@@ -1,0 +1,21 @@
+{
+  "name": "graphqlexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0",
+    "node": "^14.8.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
